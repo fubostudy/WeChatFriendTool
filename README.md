@@ -11,7 +11,7 @@
 
 <p align="center">
 
-<img src="https://images-ferry.oss-cn-shenzhen.aliyuncs.com/075055.jpg" width="50%"/>
+<img src="https://images-ferry.oss-cn-shenzhen.aliyuncs.com/091513.jpg" width="75%"/>
 
 </p>
 
@@ -50,7 +50,8 @@
 </p>
 
 
-​	
+
+
 # 功能描述
 
 1. 点击`登录微信`，并且扫码登陆微信；
@@ -66,9 +67,10 @@
 </p>
 
 
+
 3. 发送文本消息：基于上述导出的`friends_list.xlsx`文件，可以借助备注名称和excel生成批量个性化信息。最后将要发送的信息保存到excel，再点击`上传表格`，将表格上传。
-	
-	需要注意的是，这里要上传的excel需要严格按照规范来，包括两列：第一列是的唯一识别号（wx_id），表示你要将信息发送给谁；第二列是要发送的信息（meg），表示你要发送什么消息。(第一行的列名命名可以随意，会从第二行开始读取；excel的文件名也可以随意)
+
+   需要注意的是，这里要上传的excel需要严格按照规范来，包括两列：第一列是的唯一识别号（wx_id），表示你要将信息发送给谁；第二列是要发送的信息（meg），表示你要发送什么消息。(第一行的列名命名可以随意，会从第二行开始读取；excel的文件名也可以随意)
 
 4. 发送图片消息：这个选项是**可选**的，点击`上传图片`（建议不要图片太大，不然发送很慢或发送失败），并选择图片即可。需要注意的是，这里是给所上传的Excel文件里面的唯一识别号（wx_id）列的所有人**发送同一张图片**。如果信息和图片确认没问题后，点击发送即可。
 
@@ -81,11 +83,10 @@
 </p>
 
 
+
 5. 点击`生成好友头像照片墙`，可以生成 「正方形」 和 「心形」 两种格式的照片墙。（如果好友比较多，可能下载过程会有些缓慢）
 
 <p align="center">
 <img src="https://images-ferry.oss-cn-shenzhen.aliyuncs.com/091931.png" width="50%"/>
 <img src="https://images-ferry.oss-cn-shenzhen.aliyuncs.com/092101.png" width="50%"/>
 </p>
-
-
